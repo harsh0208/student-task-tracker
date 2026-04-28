@@ -6,3 +6,5 @@ Features:
 - Add tasks
 - Mark complete
 - Track progress
+## Update
+Task feature implemented
